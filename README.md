@@ -9,6 +9,7 @@ Como Acessar o Projeto:
 Baixe o arquivo index.html diretamente deste repositório.
 
 Abra o arquivo no seu navegador para começar a experiência interativa.
+
 OU clique no link a seguir para já executá-lo em seu navegador: https://vifernandestech.github.io/Historia-Interativa-IA/
 
 Recursos Adicionais:
