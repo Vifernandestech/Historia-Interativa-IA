@@ -5,12 +5,12 @@ Na trama, você acompanha Vitor, um hacker brasileiro talentoso, enquanto ele de
 
 Este repositório é apenas para armazenar o arquivo HTML do projeto, para acesso ao projeto completo siga as instruções abaixo: 
 
-Como Acessar o Projeto
+Como Acessar o Projeto:
 Baixe o arquivo index.html diretamente deste repositório.
 
 Abra o arquivo no seu navegador para começar a experiência interativa.
 
-Recursos Adicionais
+Recursos Adicionais:
 Para uma explicação detalhada sobre o projeto, incluindo o passo a passo de sua execução, acesse o README completo disponível no repositório principal:
 
 Acesso ao README completo do projeto com explicação e passo a passo da execução em https://github.com/Vifernandestech/lab-natty-or-not
